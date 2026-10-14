@@ -1,0 +1,5 @@
+node_modules/
+main.js
+.obsidian-cache/
+verify-report.json
+harness/results/
